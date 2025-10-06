@@ -43,5 +43,7 @@ I enjoy building interactive web apps using **HTML, CSS, JavaScript**, and somet
 
 ---
 
-> “First, solve the problem. Then, write the code.”  
-> – John Johnson
+<p align="center">
+  “First, solve the problem. Then, write the code.”  
+  <br>– John Johnson
+</p>
