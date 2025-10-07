@@ -9,7 +9,7 @@
 
 💻 MCA Student | 🌐 Web Developer | 🧠 Lifelong Learner  
 
-I enjoy building interactive web apps using **HTML, CSS, JavaScript**, and sometimes diving into **C/C++** for fun (and bugs, of course 😅). 
+I enjoy building interactive web apps using **HTML, CSS, JavaScript, React.js**, and sometimes diving into **C/C++** for fun (and bugs, of course 😅). 
 
 ---
 
