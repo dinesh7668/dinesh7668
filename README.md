@@ -32,7 +32,7 @@ I enjoy building interactive web apps using **HTML, CSS, JavaScript, React.js**,
 
 ### 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-dinesh7668-black?style=flat&logo=github)](https://github.com/dinesh7668)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/dinesh-pal-web-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([www.linkedin.com/in/dinesh-pal-web-developer](https://www.linkedin.com/in/dinesh-pal-a7334932a/))
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=whatsapp)](https://wa.me/7668019156)
 
 ---
