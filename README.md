@@ -47,5 +47,5 @@ I enjoy building interactive web apps using **HTML, CSS, JavaScript, React.js**,
 
 <p align="center">
   “First, solve the problem. Then, write the code.”  
-  <br>~ Narendra Modi 😄
+  <br>~ Kim Jong Un 😄
 </p>
