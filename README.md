@@ -18,6 +18,8 @@ I enjoy building interactive web apps using **HTML, CSS, JavaScript, React.js**,
 - **Backend (Learning):** Node.js, Express.js (Basics), REST API Development
 - **Database:**MySQL, MongoDB, Database Design Fundamentals 
 - **Languages:** C, C++, JavaScript
+- **Tools:** VS Code, Git, GitHub, Vercel, Render, Postman  
+
   
 ---
 
