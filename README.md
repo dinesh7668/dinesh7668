@@ -24,7 +24,7 @@ I enjoy building interactive web apps using **HTML, CSS, JavaScript, React.js**,
 ---
 
 ### 🚀 Currently Exploring
-- React.js  
+- Next.js  
 - Data Structures & Algorithms in C++  
 - Building Full Stack Web Projects  
 
