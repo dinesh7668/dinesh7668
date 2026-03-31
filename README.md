@@ -19,7 +19,7 @@ I enjoy building interactive web apps using **HTML, CSS, JavaScript, React.js**,
 - **Database:**MySQL, MongoDB, Database Design Fundamentals 
 - **Languages:** C, C++, JavaScript
 - **Tools:** VS Code, Git, GitHub, Vercel, Render, Postman  
-
+- **Core Concepts:**Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), CRUD Operations, API Integration, Authentication (Google OAuth Basics), Version Control
   
 ---
 
