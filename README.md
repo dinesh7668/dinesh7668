@@ -15,13 +15,15 @@ I enjoy building interactive web apps using **HTML, CSS, JavaScript, React.js**,
 
 ### ⚙️ Tech Stack
 - **Frontend:*HTML, CSS, JavaScript, React.js, Responsive Web Design, Basic UI/UX Principles
-- **Backend (Learning):** Node.js, Express.js (Basics), REST API Development  
+- **Backend (Learning):** Node.js, Express.js (Basics), REST API Development
+- - **Database:**MySQL, MongoDB, Database Design Fundamentals 
+
 ---
 
 ### 🚀 Currently Exploring
 - React.js  
 - Data Structures & Algorithms in C++  
-- Building mini web projects just for fun 😄  
+- Building Full Stack Web Projects just for fun 😄  
 
 ---
 
