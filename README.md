@@ -14,12 +14,12 @@ I enjoy building interactive web apps using **HTML, CSS, JavaScript, React.js**,
 ---
 
 ### ⚙️ Tech Stack
-- **Frontend:*HTML, CSS, JavaScript, React.js, Responsive Web Design, Basic UI/UX Principles
+- **Frontend:* HTML, CSS, JavaScript, React.js, Responsive Web Design, Basic UI/UX Principles
 - **Backend (Learning):** Node.js, Express.js (Basics), REST API Development
-- **Database:**MySQL, MongoDB, Database Design Fundamentals 
+- **Database:** MySQL, MongoDB, Database Design Fundamentals 
 - **Languages:** C, C++, JavaScript
 - **Tools:** VS Code, Git, GitHub, Vercel, Render, Postman  
-- **Core Concepts:**Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), CRUD Operations, API Integration, Authentication (Google OAuth Basics), Version Control
+- **Core Concepts:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), CRUD Operations, API Integration, Authentication (Google OAuth Basics), Version Control
   
 ---
 
