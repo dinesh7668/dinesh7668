@@ -46,6 +46,6 @@ I enjoy building interactive web apps using **HTML, CSS, JavaScript, React.js**,
 ---
 
 <p align="center">
-  “First, solve the problem. Then, write the code.”  
+  “First, create a problem then sell the solution.”  
   <br>~ Doland Trump 😄
 </p>
